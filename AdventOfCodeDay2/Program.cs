@@ -10,11 +10,9 @@
  * Instructions see: https://adventofcode.com/2023/day/2
  */
 
-using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-// Get input from files
 var input = await File.ReadAllLinesAsync(path: ".\\input.txt", encoding: Encoding.UTF8);
 
 var result1 = Part1(input);
