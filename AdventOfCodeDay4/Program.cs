@@ -2,7 +2,7 @@
  * Advent Of Code 2023
  * Day 4
  * Part 1 & 2
- * AdventOfCodeDay3.csproj
+ * AdventOfCodeDay4.csproj
  * By DaWeba02 / Markus Weber
  *
  * Created on 06 Dec 2023
